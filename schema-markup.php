@@ -523,14 +523,14 @@ function add_loop_posts_data()
 			   ],
 			"publisher" => [
 				"@type" => "Organization",
-				"name" => "Colibri Studios",
-				"url" => "https://colibridesign.ro",
+				"name" => "kazenokodomo",
+				"url" => "https://www.facebook.com/kazenokodomo",
 				"logo" => [
 					"@type" => "ImageObject",
-					"url" => "https://colibridesign.ro",
-					"image" => "https://colibridesign.ro/ui/images/colibri%20dot.svg",
-					"width" => "20",
-					"height" => "20"
+					"url" => "https://www.facebook.com/kazenokodomo",
+					"image" => "https://scontent.fotp3-2.fna.fbcdn.net/v/t31.18172-1/11229375_906232166124459_4933964724193381109_o.jpg?stp=dst-jpg_p148x148&_nc_cat=100&ccb=1-5&_nc_sid=1eb0c7&_nc_eui2=AeHEUelwVZxwuVPy8_I5ePV31sxK7a9whJDWzErtr3CEkLDLIV0pVSj2FQYJGATbarQ0gsmUssZ9ezrPn1-PjTKO&_nc_ohc=7aIHvycpMJ4AX_n3JUx&tn=0x_n4hSVDwry3554&_nc_ht=scontent.fotp3-2.fna&oh=00_AT8HbGiOm58aomOMYZmZDFG4rxaL-gKgRI5dPlhvHVTZIQ&oe=626C3B23",
+					"width" => "150",
+					"height" => "150"
 				]
 			]
 		]; 		
